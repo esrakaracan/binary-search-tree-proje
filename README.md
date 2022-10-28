@@ -16,3 +16,4 @@ Root [7]
 
 [3] ün sağında [4] bulunur, solunda [2] bulunur.
 
+![image](https://user-images.githubusercontent.com/116681225/198688186-785f72bd-2a5f-41e7-b37c-b32edceeaee2.png)
